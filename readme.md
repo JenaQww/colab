@@ -22,3 +22,6 @@ if numbers:
     print(f"Максимум: {maximum}")
 else:
     print("Ты не ввёл ни одного числа.")
+
+
+123456789
